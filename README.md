@@ -4,7 +4,7 @@ Read data via Serial or UART
 ## User Stories
 
 * [ ] Scan avaible port
-* [ ] Read data from serial
+* [x] Read data from serial
 * [ ] Push data to Database
 
 ## Notes
